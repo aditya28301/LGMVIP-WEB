@@ -1,3 +1,4 @@
 # LETS_GROW_MORE WEB-DEV INTERNSHIP PROJECT
 # SINGLE PAGE WEBSITE OF PIZZA DELIVERY 
-![](https://mega.nz/file/bMhlEIxK#V1t0nfoxxRiUSJoJy_i5zN7aruAtlI-qsszEEsfjjsw)
+
+<img alt="YAP" src="https://mega.nz/file/bMhlEIxK#V1t0nfoxxRiUSJoJy_i5zN7aruAtlI-qsszEEsfjjsw">
